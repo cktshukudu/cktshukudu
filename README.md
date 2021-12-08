@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christian Tshukudu
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Javascript and React
+- 🌱 I’m currently learning React
 - 📫 How to reach me cktshukudu@gmail.com
 
 <!---
